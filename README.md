@@ -10,20 +10,26 @@
 🎯 Focused on clean code, user experience, and problem solving  
 🌱 Currently exploring Firebase, REST APIs, and state management  
 🎓 Class of 2025 | Helwan University  
-- 🤓 Love solving problems and participating in competitions like ECPC
+🤓 Love solving problems and participating in competitions like ECPC
 
 
 ---
 
-## 🛠️ Tech Stack
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+
+🚀 **Skills & Technologies**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ## 📈 GitHub Stats
 
@@ -46,6 +52,13 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayafarag701&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+## 🐍 A Snake Eating My Contributions Graph
+
+![snake gif](https://github.com/ayafarag701/ayafarag701/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
