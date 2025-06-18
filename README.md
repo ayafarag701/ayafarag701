@@ -1,24 +1,23 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk1YnliNzVhdHNkMXoxampjdGtzamJkZnBsdzc1d3RpZXVkdm1qeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p3jODc8SCg6H5VwSdJ/giphy.gif" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk1YnliNzVhdHNkMXoxampjdGtzamJkZnBsdzc1d3RpZXVkdm1qeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/p3jODc8SCg6H5VwSdJ/giphy.gif" width="250"/>
 </div>
+
 <h1 align="center">Hi there 👋, I'm Aya Farag</h1>
 <h3 align="center">Flutter Developer | CS Student at Helwan University</h3>
 
 ---
 
-🚀 Passionate about crafting beautiful & responsive mobile apps using Flutter  
-🎯 Focused on clean code, user experience, and problem solving  
-🌱 Currently exploring Firebase, REST APIs, and state management  
-🎓 Class of 2025 | Helwan University  
-🤓 Love solving problems and participating in competitions like ECPC
+## 💁‍♀️ About Me
 
+- 🚀 Passionate about crafting beautiful & responsive mobile apps using Flutter  
+- 🎯 Focused on clean code, user experience, and problem solving  
+- 🌱 Currently exploring Firebase, REST APIs, and state management  
+- 🎓 Class of 2025 | Helwan University  
+- 🤓 Love solving problems and participating in competitions like ECPC
 
 ---
 
-
-
-
-🚀 **Skills & Technologies**
+## 🚀 Skills & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -31,15 +30,17 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayafarag701&show_icons=true&theme=tokyonight" alt="Aya's GitHub Stats" />
 </p>
 
----
 
-## 📫 Connect with me
+
+## 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:ayafarag701@gmail.com">
@@ -51,10 +52,7 @@
   <a href="https://github.com/ayafarag701">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayafarag701&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-
+</p>
 
 <p align="center">
   <a href="https://codeforces.com/profile/___Aya___">
@@ -68,6 +66,11 @@
   </a>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayafarag701&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
 
