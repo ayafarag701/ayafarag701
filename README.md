@@ -10,6 +10,8 @@
 🎯 Focused on clean code, user experience, and problem solving  
 🌱 Currently exploring Firebase, REST APIs, and state management  
 🎓 Class of 2025 | Helwan University  
+- 🤓 Love solving problems and participating in competitions like ECPC
+
 
 ---
 
