@@ -34,7 +34,7 @@
   <a href="mailto:ayafarag701@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aya-farag701/">
+  <a href="https://www.linkedin.com/in/aya-farag-767b65264/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ayafarag701">
