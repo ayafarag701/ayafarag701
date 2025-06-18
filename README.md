@@ -56,9 +56,7 @@
   <img src="https://komarev.com/ghpvc/?username=ayafarag701&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-## 🐍 A Snake Eating My Contributions Graph
 
-![snake gif](https://github.com/ayafarag701/ayafarag701/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
