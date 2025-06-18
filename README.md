@@ -56,6 +56,17 @@
   <img src="https://komarev.com/ghpvc/?username=ayafarag701&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
+<p align="center">
+  <a href="https://codeforces.com/profile/___Aya___">
+    <img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://icpc.global/ICPCID/LNQQLL08NZUJ">
+    <img src="https://img.shields.io/badge/ICPC-blue?style=for-the-badge&logo=icpc&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/aya.farag.3958914">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
 
 ---
